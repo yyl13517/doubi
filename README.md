@@ -4,7 +4,7 @@
 
 - 脚本说明: Ocserv AnyConnect 一键安装管理脚本
 - 系统支持: Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/vpnzy-7/
+- 使用方法: 
 
 #### 下载安装:
 ``` bash
