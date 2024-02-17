@@ -8,7 +8,6 @@
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ocserv.sh && chmod +x ocserv.sh && bash ocserv.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/yyl13517/doubi/master/ocserv/ocserv.sh && chmod +x ocserv.sh && bash ocserv.sh
 ```
-
 ---
